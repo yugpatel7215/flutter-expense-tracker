@@ -1,16 +1,28 @@
-# expense_tracker
 
-A new Flutter project.
+# Flutter Expense Tracker
 
-## Getting Started
+A simple Flutter app to track daily expenses.
 
-This project is a starting point for a Flutter application.
+## Features
+- Add and delete expenses
+- Local data storage (Hive)
+- Clean and simple UI
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- Flutter
+- Dart
+- Hive (local database)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+1. HomeScreen 
+<img width="780" height="1665" alt="image" src="https://github.com/user-attachments/assets/5239a794-29a5-4843-b972-fc174dbd7bee" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Add transactions 
+<img width="795" height="1656" alt="image" src="https://github.com/user-attachments/assets/8d1f7783-449b-43c9-b1e1-29bbae4ecea8" />
+
+3. Analysis/ pie chart
+ <img width="806" height="1659" alt="image" src="https://github.com/user-attachments/assets/50c5c765-b00e-461c-908a-40f0368ffe60" />
+
+
+
+   
